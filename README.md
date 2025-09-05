@@ -10,4 +10,5 @@ Currently, I’m deepening my expertise in backend development by learning advan
 📫 How to reach me
 
 LinkedIn: www.linkedin.com/in/yenlik-sergali-486a86372/
+
 Email: enlik.sergali@jihc.edu.kz
